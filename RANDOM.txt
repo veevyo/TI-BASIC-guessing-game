@@ -1,0 +1,11 @@
+ClrHome
+randInt(1,9)→A
+Repeat (A=B)
+Input "Guess a number! (1-9): ",B
+If (A<B)
+Disp "Your guess is too high!"
+If (A>B)
+Disp "Your guess is too low!"
+If (A=B)
+Disp "You win!"
+End
