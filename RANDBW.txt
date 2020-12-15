@@ -1,11 +1,18 @@
 ClrHome
 randInt(1,9)→A
+0→C
 Repeat (A=B)
-Input "Guess a number!",B
+Input "Guess a number! ",B
+C+1→C
+{0,1→L₁
+CL₁→L₂
+LinReg(ax+b) Y₁
+Equ►String(Y₁,Str1
+sub(Str1,1,length(Str1)-3→Str1
 If (A<B)
 Disp "Too high!"
 If (A>B)
 Disp "Too low!"
 If (A=B)
-Disp "You win!"
+Disp "You won!","You used "+Str1,"move(s)."
 End
