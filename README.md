@@ -21,3 +21,10 @@ Endless: In this mode, you have infinite moves. At the end, the amount of moves 
 To use the program, upload it to your calculator using TI-Connect, or emulate it using something
 like Wabbitemu, using a legally dumped ROM. If you use a TI-84 Plus C Silver Edition or a TI-84 Plus
 CE, use RANDOM.8xp. Otherwise, use RANDBW.8xp. 
+
+This game is compatible with the following calculators: 
+1. TI-83 Plus
+2. TI-84 Plus
+3. TI-84 Plus Silver Edition
+4. TI-84 Plus C Silver Edition
+5. TI-84 Plus CE
