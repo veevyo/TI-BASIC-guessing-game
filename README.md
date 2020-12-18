@@ -1,7 +1,6 @@
-# TI BASIC Guessing Game
+# TI-Basic Random Number Guesser by veevyo
 ![](RANDOM.gif)
 
-TI-Basic Random Number Guesser by veevyo
 Thank you to andrewk on the /r/calculators Discord server for helping me remember how End works!
 
 # About
@@ -12,9 +11,13 @@ so they can use strategy to figure out what the number is. There is also a count
 the player how many moves it took them to guess the number. 
 
 # How to play
+
 There are two modes: Endless and Arcade.
+
 Endless: In this mode, you have infinite moves. At the end, the amount of moves you used is displayed.
+
 Arcade: In this mode, you only have 3 moves. If you cannot guess the number in 3 moves, you lose.
+
 To use the program, upload it to your calculator using TI-Connect, or emulate it using something
 like Wabbitemu, using a legally dumped ROM. If you use a TI-84 Plus C Silver Edition or a TI-84 Plus
 CE, use RANDOM.8xp. Otherwise, use RANDBW.8xp. 
