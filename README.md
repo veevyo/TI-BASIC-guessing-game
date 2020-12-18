@@ -12,11 +12,11 @@ the player how many moves it took them to guess the number.
 
 # How to play
 
-There are two modes: Endless and Arcade.
-
-Endless: In this mode, you have infinite moves. At the end, the amount of moves you used is displayed.
+There are two modes: Arcade and Endless.
 
 Arcade: In this mode, you only have 3 moves. If you cannot guess the number in 3 moves, you lose.
+
+Endless: In this mode, you have infinite moves. At the end, the amount of moves you used is displayed.
 
 To use the program, upload it to your calculator using TI-Connect, or emulate it using something
 like Wabbitemu, using a legally dumped ROM. If you use a TI-84 Plus C Silver Edition or a TI-84 Plus
