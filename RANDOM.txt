@@ -17,9 +17,15 @@ Disp "Your guess is too high!"
 If (A>B)
 Disp "Your guess is too low!"
 If (C≤0) and (A≠B)
+Then
 Disp "You lost!"
+Pause ""
+End
 If (A=B) or (C≤0 and A=B)
+Then
 Disp "You won!"
+Pause ""
+End
 End
 Stop
 Lbl 2
