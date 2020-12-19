@@ -1,10 +1,10 @@
-# TI-Basic Random Number Guesser by veevyo
+# TI-Basic Guess the Number by veevyo
 ![](RANDOM.gif)
 
 Thank you to andrewk on the /r/calculators Discord server for helping me remember how End works!
 
 # About
-This is a random number guesser written in TI-Basic. It utilizes randInt to generate
+This is a random number guessing game written in TI-Basic. It utilizes randInt to generate
 a random number between 1 and 9. The program keeps the random number as a constant, 
 and it also tells the player whether their guess was too high or too low compared to the constant,
 so they can use strategy to figure out what the number is. There is also a counter, which informs
