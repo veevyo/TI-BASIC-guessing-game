@@ -1,4 +1,4 @@
-Menu("Number Guesser","Arcade Mode",1,"Endless Mode",2
+Menu("Guess The Number!","Arcade Mode",1,"Endless Mode",2
 Lbl 1
 ClrHome
 randInt(1,9)→A
