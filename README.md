@@ -1,5 +1,5 @@
 # TI-Basic Guess the Number by veevyo
-![](RANDOM.gif)
+![](random.png)
 
 Thank you to andrewk on the /r/calculators Discord server for helping me remember how End works!
 
